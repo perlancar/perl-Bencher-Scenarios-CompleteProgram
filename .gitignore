@@ -2,3 +2,4 @@ Bencher-Scenarios-CompleteProgram-*
 .build
 *~
 nytprof*
+.DS_Store
